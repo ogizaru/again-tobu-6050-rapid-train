@@ -1,0 +1,47 @@
+body {
+    background-color: aliceblue;
+    background-image: url(https://pbs.twimg.com/media/FNnDw8CaMAQ8Yx0?format=jpg&name=4096x4096);
+    background-position:;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 3rem;
+    font-weight: 700;
+    position: relative;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    letter-spacing: 1em;
+    color: white;
+    border-radius: 0.5rem;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    display: table;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 80%;
+    height: 3.2rem;
+}
+
+h1{
+    font-size:100%;
+}
+
+h2 {
+    font-size: 60%;
+    letter-spacing: 0.2em;
+}
